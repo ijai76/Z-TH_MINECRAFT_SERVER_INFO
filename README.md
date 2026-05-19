@@ -14,3 +14,7 @@ this is like to see your own Minecraft server status to your players
 ### just node server.js
 then
 ![ex](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260519-WA0126.jpg)
+
+## Admin Panel
+### And very customisable 
+![ex](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260519-WA0130.jpg)
