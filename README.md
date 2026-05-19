@@ -25,3 +25,4 @@ Im kinda lazy tbh to make readme.md file tbh
 ## donate me some
 [![SociaBuzz](https://img.shields.io/badge/SociaBuzz-E62129?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/zbld/donate)
 
+gimme stars too🫰
