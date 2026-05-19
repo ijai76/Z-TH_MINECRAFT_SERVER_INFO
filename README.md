@@ -3,7 +3,7 @@ This is open source code.
 You can use it freely
 and this is full nodejs
 ## What is this?
-this is like to see your own Minecraft server status to your players
+this status server info for your own server, for your player to see the status of the server right now
 ![ex](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260518-WA0045(1).jpg)
 ![ex](https://github.com/ijai76/SERVER-MINECRAFT-INFO-WEBSITE-/blob/main/Screenshot_20260518-171141.jpg)
 
