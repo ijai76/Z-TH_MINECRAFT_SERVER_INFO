@@ -19,8 +19,9 @@ then
 ### And very customisable 
 ![ex](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260519-WA0130.jpg)
 # IMPORTANT!
-minimum of the server is 1 cores or 100%
-minimum of the server is 512mb of ram
+The minimum of the server is 1 cores or 100%
+
+The minimum of the server is 512mb of ram
 
 
 Im kinda lazy tbh to make readme.md file tbh
