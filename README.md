@@ -19,6 +19,9 @@ then
 ### And very customisable 
 ![ex](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260519-WA0130.jpg)
 
-Im kinda lazy tbh to make readme.md file
+Im kinda lazy tbh to make readme.md file tbh
+
+
+here. donate me some
 [![SociaBuzz](https://img.shields.io/badge/SociaBuzz-E62129?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/zbld/donate)
 
