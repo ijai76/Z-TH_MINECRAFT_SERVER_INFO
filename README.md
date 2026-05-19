@@ -9,3 +9,8 @@ this is like to see your own Minecraft server status to your players
 
 ### IF ITS DETECT JAVA AND BEDROCK SERVER(GEYSERMC)
 ![Java-bedrock](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260519-WA0124.jpg)
+
+## Very easy setup 
+### just node server.js
+then
+![ex](https://github.com/ijai76/Z-TH_MINECRAFT_SERVER_INFO/blob/main/IMG-20260519-WA0126.jpg)
